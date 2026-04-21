@@ -1,0 +1,20 @@
+# Code owners for the aftertheschool/notes repository.
+#
+# Syntax: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# The last matching pattern takes precedence.
+
+# Default — main owner reviews everything.
+*                       @avinashreddydev
+
+# Class 10 — Andhra Pradesh: co-owned with kavya-collab.
+/class-10-ap/           @avinashreddydev @kavya-collab
+/assets/class-10-ap/    @avinashreddydev @kavya-collab
+
+# Task lists — each contributor owns their own file.
+/tasks/avinashreddydev.md   @avinashreddydev
+/tasks/kavya-collab.md      @kavya-collab
+
+# Repo-level configuration stays with the main owner.
+/.github/               @avinashreddydev
+/README.md              @avinashreddydev
