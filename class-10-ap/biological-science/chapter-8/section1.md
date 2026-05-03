@@ -1,81 +1,26 @@
-# 8.1 Accumulation of Variation During Reproduction
+# 8.1 ACCUMULATION OF VARIATION DURING REPRODUCTION
 
-Inheritance from the previous generation provides:
-- A **common basic body design**
-- **Subtle variations** in the next generation
+Inheritance from the previous generation provides both a common basic body design, and subtle changes in it, for the next generation. Now think about what would happen when this new generation, in its turn, reproduces. The second generation will have differences that they inherit from the first generation, as well as newly created differences (Fig. 8.1).
 
----
 
-## Variation Across Generations
-
-- When a generation reproduces:
-  - Offspring inherit **differences from parents**
-  - New variations are also **created**
-
-- Over successive generations:
-  - Variations **accumulate**
-  - Individuals become **increasingly diverse**
-
----
 ![Figure8.1](../../../assets/class-10-ap/biological-science/chapter-8/section1/figure1.png)
-## Asexual Reproduction and Variation
-
-- In asexual reproduction:
-  - A single organism reproduces
-  - Example: **Bacteria**
-
-### Process:
-- One bacterium divides → 2 bacteria  
-- These divide again → 4 bacteria  
-
-### Result:
-- All individuals are **very similar**
-- Only **minor differences** occur due to:
-  - Small inaccuracies in DNA copying
-
----
-
-## Sexual Reproduction and Variation
-
-- In sexual reproduction:
-  - DNA from **two individuals combines**
-- This leads to:
-  - **Greater diversity**
-  - More variation compared to asexual reproduction
-
----
-
-## Survival of Variations
-
-Not all variations are equally useful.
-
-- Different individuals have **different advantages**
-- Example:
-  - Heat-resistant bacteria survive better in high temperatures
-
----
-
-## Role of Environment
-
-- The environment **selects useful variations**
-- This process is called:
-  - **Natural selection**
-
----
-
-## Key Idea
-
-- Accumulation of variations over generations
-- Selection by environment
-- Together form the basis of:
-  > **Evolution**
 
 
-# Questions 
+Figure 8.1 would represent the situation if a single individual reproduces, as happens in asexual reproduction. If one bacterium divides, and then the resultant two bacteria divide again, the four individual bacteria generated would be very similar. There would be only very minor differences between them, generated due to small inaccuracies in DNA copying. However, if sexual reproduction is involved, even greater diversity will be generated, as we will see when we discuss the rules of inheritance.
 
-1. If a trait A exists in 10% of a population of
-an asexually reproducing species and a trait
-B exists in 60% of the same population,
-which trait is likely to have arisen earlier?
-2. How does the creation of variations in a
-species promote survival?
+Do all these variations in a species have equal chances of surviving in the environment in which they find themselves? Obviously not. Depending on the nature of variations, different individuals would have different kinds of advantages. Bacteria that can withstand heat
+will survive better in a heat wave, as we have
+discussed earlier. Selection of variants by
+environmental factors forms the basis for
+evolutionary processes, as we will discuss in
+later sections.
+
+
+
+
+
+# Questions
+
+1. If a trait A exists in 10% of a population of an asexually reproducing species and a trait B exists in 60% of the same population, which trait is likely to have arisen earlier?
+
+2. How does the creation of variations in a species promote survival?

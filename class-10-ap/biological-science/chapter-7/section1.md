@@ -1,126 +1,19 @@
+# 7.1 DO ORGANISMS CREATE EXACT COPIES OF THEMSELVES?
 
+Organisms look similar because their body designs are similar. If body designs are to be similar, the blueprints for these designs should be similar. Thus, reproduction at its most basic level will involve making copies of the blueprints of body design. In Class IX, we learnt that the chromosomes in the nucleus of a cell contain information for inheritance of features from parents to next generation in the form of DNA (Deoxyribo Nucleic Acid) molecules. The DNA in the cell nucleus is the information source for making proteins. If the information is changed, different proteins will be made. Different proteins will eventually lead to altered body designs.
 
-# 7.1 Do Organisms Create Exact Copies of Themselves?
+Therefore, a basic event in reproduction is the creation of a DNA copy. Cells use chemical reactions to build copies of their DNA. This creates two copies of the DNA in a reproducing cell, and they will need to be separated from each other. However, keeping one copy of DNA in the original cell and simply pushing the other one out would not work, because the copy pushed out would not have any organised cellular structure for maintaining life processes. Therefore, DNA copying is accompanied by the creation of an additional cellular apparatus, and then the DNA copies separate, each with its own cellular apparatus. Effectively, a cell divides to give rise to two cells.
 
-Organisms look similar because their **body designs are similar**.  
-If body designs are to be similar, the **blueprints** for these designs must also be similar.
-
----
-
-## DNA as the Blueprint
-
-- The blueprint of body design is stored in **DNA (Deoxyribonucleic Acid)**
-- DNA is present in the **chromosomes** inside the nucleus
-- DNA carries information for **inheritance of features**
-
-### Role of DNA:
-- DNA provides instructions to make **proteins**
-- Proteins determine the **structure and function** of the body
-
-> If DNA information changes → different proteins are formed → body design may change
-
----
-
-## Basic Event in Reproduction
-
-The most fundamental step in reproduction is:
-
-### **Copying of DNA**
-
-- Cells use **chemical reactions** to create copies of DNA
-- This results in **two DNA copies** inside the cell
-
----
-
-## Cell Division
-
-DNA copying alone is not enough.
-
-- A new cell must have:
-  - DNA
-  - Cellular structure (cytoplasm, organelles)
-
-### Process:
-1. DNA is copied
-2. Cellular components are duplicated
-3. The cell divides into **two cells**
-4. Each cell gets:
-   - One copy of DNA
-   - Its own cellular apparatus
-
----
-
-## Are Copies Exactly Identical?
-
-- DNA copying is **not perfectly accurate**
-- Biochemical processes can introduce **small variations**
-
-### Outcomes:
-- Some variations may be harmful → cell may die
-- Some variations may survive → slight differences occur
-
-### Result:
-- New cells are **similar but not identical**
-
----
-
-## Variation and Its Role
-
-This natural variation during reproduction leads to:
-
-- Differences among individuals
-- Diversity within a population
-
-> This variation forms the **basis of evolution**
-
----
+These two cells are of course similar, but are they likely to be absolutely identical? The answer to this question will depend on how accurately the copying reactions involved occur. No bio-chemical reaction is absolutely reliable. Therefore, it is only to be expected that the process of copying the DNA will have some variations each time. As a result, the DNA copies generated will be similar, but may not be identical to the original. Some of these variations might be so drastic that the new DNA copy cannot work with the cellular apparatus it inherits. Such a newborn cell will simply die. On the other hand, there could still be many other variations in the DNA copies that would not lead to such a drastic outcome. Thus, the surviving cells are similar to, but subtly different from each other. This inbuilt tendency for variation during reproduction is the basis for evolution, as we will discuss in the next chapter.
 
 # 7.1.1 The Importance of Variation
 
-## Stability of Populations
+Populations of organisms fill well-defined places, or niches, in the ecosystem, using their ability to reproduce. The consistency of DNA copying during reproduction is important for the maintenance of body design features that allow the organism to use that particular niche. Reproduction is therefore linked to the stability of populations of species.
 
-- Organisms occupy specific **niches** (roles in ecosystems)
-- Accurate DNA copying helps maintain:
-  - Body structure
-  - Ability to survive in that niche
+However, niches can change because of reasons beyond the control of the organisms. Temperatures on earth can go up or down, water levels can vary, or there could be meteorite hits, to think of a few examples. If a population of reproducing organisms were suited to a particular niche and if the niche were drastically altered, the population could be wiped out. However, if some variations were to be present in a few individuals in these populations, there would be some chance for them to survive. Thus, if there were a population of bacteria living in temperate waters, and if the water temperature were to be increased by global warming, most of these bacteria would die, but the few variants resistant to heat would survive and grow further. Variation is thus useful for the survival of species over time.
 
-Thus:
-- Reproduction ensures **stability of species**
+# Questions
 
----
+1. What is the importance of DNA copying in reproduction?
 
-## Changing Environments
-
-Environmental conditions can change due to:
-- Temperature variations
-- Changes in water levels
-- Natural disasters (e.g., meteorite impacts)
-
-If all organisms were identical:
-- Entire population could be wiped out
-
----
-
-## Role of Variation in Survival
-
-Variation increases chances of survival.
-
-### Example:
-- Bacteria living in moderate temperature water
-- If temperature rises:
-  - Most bacteria die
-  - Heat-resistant variants survive and reproduce
-
----
-
-## Key Idea
-
-- Variation helps species **adapt and survive**
-- It ensures survival under changing environmental conditions
-
-# Questions 
-
-1. What is the importance of DNA copying in
-reproduction?
-2. Why is variation beneficial to the species
-but not necessarily for the individual?
+2. Why is variation beneficial to the species but not necessarily for the individual?

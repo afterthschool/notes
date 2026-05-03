@@ -3,42 +3,8 @@ title: Heridity
 description:
 ---
 
-# Variation in Reproduction
+We have seen that reproductive processes give rise to new individuals that are similar, but subtly different. We have discussed how some amount of variation is produced even during asexual reproduction. And the number of successful variations are maximised by the process of sexual reproduction.
 
-Reproductive processes give rise to new individuals that are:
-- **Similar**
-- But **subtly different**
+If we observe a field of sugarcane we find very little variations among the individual plants. But in a number of animals including human beings, which reproduce sexually, quite distinct variations are visible among different individuals.
 
----
-
-## Variation in Asexual Reproduction
-
-- Some variation is produced even in **asexual reproduction**
-- However:
-  - The amount of variation is **limited**
-
----
-
-## Variation in Sexual Reproduction
-
-- Sexual reproduction:
-  - Produces **more variations**
-  - Combines traits from **two individuals**
-- This increases the chances of **successful variations**
-
----
-
-## Observation in Nature
-
-- In crops like **sugarcane**:
-  - Very little variation is observed
-- In animals (including humans):
-  - **Clear and distinct variations** are visible
-
----
-
-## Next Topic
-
-- Study of:
-  - **How variations are created**
-  - **How variations are inherited**
+In this chapter, we shall be studying the mechanism by which variations are created and inherited.

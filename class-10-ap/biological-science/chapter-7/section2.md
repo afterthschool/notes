@@ -1,356 +1,69 @@
+# 7.2 MODES OF REPRODUCTION USED BY SINGLE ORGANISMS
 
+Compare and contrast the ways in which yeast grows in the first case, and how mould grows in the second.
 
-# 7.2 MODES OF REPRODUCTION USED BY SINGLE ORGANISMS 
+Having discussed the context in which reproductive processes work, let us now examine how different organisms actually reproduce. The modes by which various organisms reproduce depend on the body design of the organisms.
 
+# 7.2.1 Fission
 
-## Comparing Yeast and Mould Growth
-
-- **Yeast:**
-  - Grows by **budding**
-  - A small outgrowth (bud) forms on the parent cell
-  - The bud grows and eventually separates
-
-- **Mould:**
-  - Grows by **spore formation**
-  - Spores are produced in structures
-  - Spores disperse and grow into new organisms
-
----
-
-## Modes of Reproduction
-
-The way organisms reproduce depends on their **body design**.
-
----
-
-## 7.2.1 Fission
-
-In **unicellular organisms**, reproduction occurs through **cell division**, also known as **fission**.
-
-### Key Idea:
-- One cell divides to form **new individuals**
-
----
-
-## Types of Fission
-
-### 1. Binary Fission
-
-- The organism splits into **two equal halves**
-- Common in:
-  - Bacteria
-  - Protozoa
-
----
-
-### 2. Fission in Amoeba
-
-- Division can occur in **any plane**
-- Results in two daughter cells
-- Each cell grows into a new organism
+For unicellular organisms, cell division, or fission, leads to the creation of new individuals. Many different patterns of fission have been observed. Many bacteria and protozoa simply split into two equal halves during cell division. In organisms such as Amoeba, the splitting of the two cells during division can take place in any plane.
 
 ![Figure7.1](../../../assets/class-10-ap/biological-science/chapter-7/section2/figure1.png)
 
-# Examples of Fission and Budding
+However, some unicellular organisms show somewhat more organisation of their bodies, such as is seen in Leishmania (which cause kala-azar), which have a whip-like structure at one end of the cell. In such organisms, binary fission occurs in a definite orientation in relation to these structures. Other single-celled organisms, such as the malarial parasite, Plasmodium, divide into many daughter cells simultaneously by multiple fission.
 
-## Binary Fission with Orientation
+Yeast, on the other hand, can put out small buds that separate and grow further, as we saw in Activity 7.1.
 
-Some unicellular organisms show a higher level of organization.
 
-### Example: Leishmania
-- Causes **kala-azar**
-- Has a **whip-like structure (flagellum)** at one end
-- Binary fission occurs in a **definite orientation**
-- Division is aligned with the body structure
-
----
-
-## Multiple Fission
-
-Some organisms divide into many cells at once.
-
-### Example: Plasmodium
-- Causes **malaria**
-- Undergoes **multiple fission**
-- One cell divides into **many daughter cells simultaneously**
-
----
 ![Figure7.2](../../../assets/class-10-ap/biological-science/chapter-7/section2/figure2.png)
-## Budding
 
-Some unicellular organisms reproduce differently.
+In multi-cellular organisms with relatively simple body organisation, simple reproductive methods can still work. Spirogyra, for example, simply breaks up into smaller pieces upon maturation. These pieces or fragments grow into new individuals. Can we work out the reason for this, based on what we saw in Activity 7.4?
 
-### Example: Yeast
-- Reproduces by **budding**
-- A small **bud forms on the parent cell**
-- The bud grows and separates
-- The new organism continues to grow independently
+This is not true for all multi-cellular organisms. They cannot simply divide cell-by-cell. The reason is that many multi-cellular organisms, as we have seen, are not simply a random collection of cells. Specialised cells are organised as tissues, and tissues are organised into organs, which then have to be placed at definite positions in the body. In such a carefully organised situation, cell-by-cell division would be impractical. Multi-cellular organisms, therefore, need to use more complex ways of reproduction.
 
-# 7.2.2 Fragmentation
-
-## Fragmentation in Simple Multicellular Organisms
-
-In multicellular organisms with relatively simple body organization, simple reproductive methods can still work.
-
-### Example: Spirogyra
-- Reproduces by **fragmentation**
-- The organism **breaks into smaller pieces (fragments)** upon maturation
-- Each fragment grows into a **new individual**
-
----
-
-## Why Fragmentation Works
-
-- In simple organisms like Spirogyra:
-  - Body structure is **not highly complex**
-  - Cells are **similar and less specialized**
-- Therefore:
-  - Each fragment can grow independently into a complete organism
-
----
-
-## Limitations in Complex Multicellular Organisms
-
-Fragmentation does **not** occur in all multicellular organisms.
-
-### Reason:
-
-- Complex organisms have:
-  - **Specialized cells**
-  - Cells organized into **tissues**
-  - Tissues organized into **organs**
-  - Organs arranged in **specific positions**
-
-In such cases:
-- Simple breaking into pieces would not work
-- Cell-by-cell division is **impractical**
-
----
-
-## Need for Complex Reproductive Methods
-
-Due to complex body organization:
-- Multicellular organisms require **specialized reproductive processes**
-
----
-
-## Specialized Cells for Reproduction
-
-- Different cell types perform **different functions**
-- Reproduction is carried out by a **specific type of cell**
-
-### Key Idea:
-- There must be a cell type that can:
-  - **Grow**
-  - **Divide (proliferate)**
-  - **Differentiate into various cell types**
-
-This enables the formation of a **complete organism** from a single cell.
+A basic strategy used in multi-cellular organisms is that different cell types perform different specialised functions. Following this general pattern, reproduction in such organisms is also the function of a specific cell type. How is reproduction to be achieved from a single cell type, if the organism itself consists of many cell types? The answer is that there must be a single cell type in the organism that is capable of growing, proliferating and making other cell types under the right circumstances.
 
 # 7.2.3 Regeneration
 
-## What is Regeneration?
+Many fully differentiated organisms have the ability to give rise to new individual organisms from their body parts. That is, if the individual is somehow cut or broken up into many pieces, many of these pieces grow into separate individuals. For example, simple animals like Hydra and Planaria can be cut into any number of pieces and each piece grows into a complete organism. This is known as regeneration (see Fig.7.3). Regeneration is carried out by specialised cells. These cells proliferate and make large numbers of cells. From this mass of cells, different cells undergo changes to become various cell types and tissues. These changes take place in an organised sequence referred to as development. However, regeneration is not the same as reproduction, since most organisms would not normally depend on being cut up to be able to reproduce.
 
-Many fully differentiated organisms have the ability to form **new individuals from their body parts**.
 
-- If the organism is cut or broken into pieces:
-  - Some or many pieces can grow into **complete individuals**
+![Figure7.3](../../../assets/class-10-ap/biological-science/chapter-7/section2/figure3.png)
 
----
+# 7.2.4 Budding
 
-## Examples
+Organisms such as Hydra use regenerative cells for reproduction in the process of budding. In Hydra, a bud develops as an outgrowth due to repeated cell division at one specific site (Fig. 7.4). These buds develop into tiny individuals and when fully mature, detach from the parent body and become new independent individuals.
 
-### Hydra
-- Can be cut into several pieces
-- Each piece grows into a **new organism**
 
-### Planaria
-- Can regenerate from **almost any body fragment**
-- Each fragment develops into a **complete organism**
 
----
 
-## Process of Regeneration
 
-Regeneration occurs through the action of **specialised cells**.
-
-### Steps Involved:
-
-1. **Proliferation (Cell Division):**
-   - Specialised cells divide rapidly
-   - A large number of cells are formed
-
-2. **Formation of Cell Mass:**
-   - A group (mass) of cells is created
-
-3. **Differentiation:**
-   - Cells change into different types
-   - Form tissues and structures
-
-4. **Development:**
-   - Organised sequence of changes
-   - Leads to formation of a complete organism
-
----
-
-## Important Note
-
-- Regeneration is **not the same as reproduction**
-- Most organisms:
-  - Do not rely on being cut into pieces to reproduce
-
-  ![Figure7.3](../../../assets/class-10-ap/biological-science/chapter-7/section2/figure3.png)
-
-  # 7.2.4 Budding
-
-## What is Budding?
-
-Budding is a method of asexual reproduction in which a **new individual develops as an outgrowth (bud)** from the parent organism.
-
----
-
-## Example: Hydra
-
-- Hydra uses **regenerative cells** for reproduction
-- A **bud forms on the parent body** at a specific site
-
----
-
-## Process of Budding
-
-1. **Cell Division:**
-   - Repeated cell division occurs at one specific site
-
-2. **Bud Formation:**
-   - A small outgrowth (bud) develops
-
-3. **Growth of Bud:**
-   - The bud grows into a **tiny individual**
-
-4. **Detachment:**
-   - When fully mature, the bud:
-     - Detaches from the parent
-     - Becomes an **independent organism**
-
-![Figure7.4](../../../assets/class-10-ap/biological-science/chapter-7/section2/figure4.png)    
-
+![Figure7.4](../../../assets/class-10-ap/biological-science/chapter-7/section2/figure4.png)
 # 7.2.5 Vegetative Propagation
 
-## What is Vegetative Propagation?
+There are many plants in which parts like the root, stem and leaves develop into new plants under appropriate conditions. Unlike in most animals, plants can indeed use such a mode for reproduction. This property of vegetative propagation is used in methods such as layering or grafting to grow many plants like sugarcane, roses, or grapes for agricultural purposes.
 
-Vegetative propagation is a method of asexual reproduction in plants where **new plants develop from parts such as roots, stems, or leaves** under suitable conditions.
-
----
-
-## Key Features
-
-- Common in many plants
-- Does not involve seeds
-- New plants arise from **vegetative parts**
-
----
-
-## Methods Used
-
-Vegetative propagation is widely used in agriculture through methods such as:
-- **Layering**
-- **Grafting**
-
-### Examples of Plants:
-- Sugarcane  
-- Roses  
-- Grapes  
-
----
-
-## Advantages
-
-- Plants **flower and fruit earlier** than those grown from seeds
-- Helps propagate plants that:
-  - Have lost the ability to produce seeds  
-  - Examples:
-    - Banana  
-    - Orange  
-    - Rose  
-    - Jasmine  
-
-- Produces plants that are:
-  - **Genetically similar (clones)** to the parent
-  - Retain all desirable characteristics
-
----
-
-## Example: Bryophyllum
-
-- Buds are formed in the **notches along the leaf margins**
-- These buds:
-  - Fall onto the soil
-  - Grow into **new plants**
+Plants raised by vegetative propagation can bear flowers and fruits earlier than those produced from seeds. Such methods also make possible the propagation of plants such as banana, orange, rose and jasmine that have lost the capacity to produce seeds. Another advantage of vegetative propagation is that all plants produced are genetically similar enough to the parent plant to have all its characteristics.Similarly buds produced in the notches
+along the leaf margin of Bryophyllum fall on the
+soil and develop into new plants (Fig. 7.5).
 
 ![Figure7.5](../../../assets/class-10-ap/biological-science/chapter-7/section2/figure5.png)
 
 # 7.2.6 Spore Formation
 
-## Reproductive Structures in Simple Multicellular Organisms
 
-In many simple multicellular organisms, **specific reproductive parts** can be identified.
+Even in many simple multi-cellular organisms, specific reproductive parts can be identified. The thread-like structures that developed on the bread in Activity 7.2 above are the hyphae of the bread mould (Rhizopus). They are not reproductive parts. On the other hand, the tiny blob-on-a-stick structures are involved in reproduction. The blobs are sporangia, which contain cells, or spores, that can eventually develop into new Rhizopus individuals (Fig. 7.6).
 
-### Example: Bread Mould (Rhizopus)
+The spores are covered by thick walls that protect them until they come into contact with another moist surface and can begin to grow.
 
-- The thread-like structures seen on bread are called **hyphae**
-- Hyphae are **not reproductive parts**
-
----
-
-## Sporangia and Spores
-
-- The small **blob-like structures on stalks** are called **sporangia**
-- Sporangia contain **spores**
-
-### Features of Spores:
-- Capable of developing into **new individuals**
-- Have **thick protective walls**
-- Can survive unfavorable conditions
-
----
-
-## Germination of Spores
-
-- Spores are released into the environment
-- When they land on a **moist surface**:
-  - They begin to grow
-  - Develop into new organisms (e.g., Rhizopus)
-
----
-
-## Asexual Reproduction
-
-All the methods discussed so far:
-- Fission
-- Fragmentation
-- Regeneration
-- Budding
-- Vegetative propagation
-- Spore formation
-
-These involve:
-- Creation of new individuals from a **single parent**
-
-### This type of reproduction is called:
-> **Asexual Reproduction**
+All the modes of reproduction that we have discussed so far allow new generations to be created from a single individual. This is known as asexual reproduction.
 
 ![Figure7.6](../../../assets/class-10-ap/biological-science/chapter-7/section2/figure6.png)
 
 
 # Questions
-1. How does binary fission differ from
-multiple fission?
-2. How will an organism be benefited if it
-reproduces through spores?
-3. Can you think of reasons why more
-complex organisms cannot give rise to
-new individuals through regeneration?
-4. Why is vegetative propagation practised
-for growing some types of plants?
-5. Why is DNA copying an essential part of
-the process of reproduction?
+1. How does binary fission differ from multiple fission?
+2. How will an organism be benefited if it reproduces through spores?
+3. Can you think of reasons why more complex organisms cannot give rise to new individuals through regeneration?
+4. Why is vegetative propagation practised for growing some types of plants?
+5. Why is DNA copying an essential part of the process of reproduction?

@@ -1,209 +1,24 @@
-# 6.3 Hormones in Animals
+# 6.3 HORMONES IN ANIMALS
 
-## Hormonal Coordination in Animals
+How are such chemical, or hormonal, means of information transmission used in animals? What do some animals, for instance squirrels, experience when they are in a scary situation? Their bodies have to prepare for either fighting or running away. Both are very complicated activities that will use a great deal of energy in controlled ways. Many different tissue types will be used and their activities integrated together in these actions. However, the two alternate activities, fighting or running, are also quite different! So here is a situation in which some common preparations can be usefully made in the body. These preparations should ideally make it easier to do either activity in the near future. How would this be achieved?
 
-In animals, chemical signals (hormones) are used for communication and coordination in addition to the nervous system.
+If the body design in the squirrel relied only on electrical impulses via nerve cells, the range of tissues instructed to prepare for the coming activity would be limited. On the other hand, if a chemical signal were to be sent as well, it would reach all cells of the body and provide the wide-ranging changes needed. This is done in many animals, including human beings, using a hormone called adrenaline that is secreted from the adrenal glands. Look at Fig. 6.7 to locate these glands.
 
-### Example: Response to a Scary Situation
+Adrenaline is secreted directly into the blood and carried to different parts of the body. The target organs or the specific tissues on which it acts include the heart. As a result, the heart beats faster, resulting in supply of more oxygen to our muscles. The blood to the digestive system and skin is reduced due to contraction of muscles around small arteries in these organs. This diverts the blood to our skeletal muscles. The breathing rate also increases because of the contractions of the diaphragm and the rib muscles. All these responses together enable the animal body to be ready to deal with the situation. Such animal hormones are part of the endocrine system which constitutes a second way of control and coordination in our body.
 
-When animals like squirrels face danger, their bodies prepare for:
-- **Fighting**, or
-- **Running away**
+Remember that plants have hormones that control their directional growth. What functions do animal hormones perform? On the face of it, we cannot imagine their role in directional growth. We have never seen an animal growing more in one direction or the other, depending on light or gravity! But if we think about it a bit more, it will become evident that, even in animal bodies, growth happens in carefully controlled places. Plants will grow leaves in many places on the plant body, for example. But we do not grow fingers on our faces. The design of the body is carefully maintained even during the growth of children.
 
-These activities:
-- Require a lot of energy
-- Involve coordination of multiple tissues
-- Need rapid and widespread preparation in the body
-
----
-
-## Role of Hormones vs Nervous Signals
-
-- **Nervous signals (electrical impulses):**
-  - Fast
-  - Limited to connected cells
-
-- **Hormonal signals (chemical):**
-  - Slower
-  - Reach **all parts of the body through blood**
-  - Enable widespread coordination
-
----
-
-## Adrenaline: The Emergency Hormone
-
-The hormone **adrenaline** plays a key role in emergency situations.
-
-### Source:
-- Secreted by the **adrenal glands**
-
-### Transport:
-- Released directly into the **bloodstream**
-- Reaches different parts of the body
-
----
-
-## Effects of Adrenaline
-
-Adrenaline prepares the body for action by causing the following changes:
-
-### 1. Heart Activity
-- Heart beats faster
-- Increases oxygen supply to muscles
-
-### 2. Blood Flow
-- Blood supply to:
-  - Digestive system
-  - Skin → decreases
-- Blood is redirected to:
-  - Skeletal muscles
-
-### 3. Breathing Rate
-- Breathing becomes faster
-- Due to contraction of:
-  - Diaphragm
-  - Rib muscles
-
----
-
-### Result:
-All these changes prepare the body to **deal with stress or danger effectively**.
-
----
-
-## Endocrine System
-
-- Hormones like adrenaline are part of the **endocrine system**
-- This system provides another method of control and coordination in the body
-
----
-
-## Role of Hormones in Growth
-
-Unlike plants, animals do not show directional growth in response to stimuli like light or gravity.
-
-However:
-- Growth in animals is **carefully controlled**
-- Body structure remains organized
-
-### Example:
-- Humans grow fingers on hands, not on the face
-- Growth is regulated to maintain body design
-
----
-
-## Example: Thyroxine Hormone
-
-### Importance of Iodised Salt
-
-- Iodine is essential for the production of **thyroxine hormone**
-- Thyroxine is produced by the **thyroid gland**
-
-### Functions of Thyroxine:
-- Regulates metabolism of:
-  - Carbohydrates
-  - Proteins
-  - Fats
-- Ensures proper growth and development
-
----
-
-## Iodine Deficiency and Goitre
-
-- Lack of iodine in diet leads to reduced thyroxine production
-- This can cause **goitre**
-
-### Symptoms:
-- Swelling in the neck
-
-### Reason:
-- Enlargement of the thyroid gland
-
----
-
-## Key Takeaways
-
-- Hormones provide **chemical coordination** in animals
-- Adrenaline prepares the body for emergency situations
-- The endocrine system works alongside the nervous system
-- Hormones regulate growth and metabolism
-- Iodine is essential for thyroid function and overall health
+Let us examine some examples to understand how hormones help in coordinated growth. We have all seen salt packets which say ‘iodised salt’ or ‘enriched with iodine’. Why is it important for us to have iodised salt in our diet? Iodine is necessar for the thyroid gland to make thyroxin hormone. Thyroxin regulates carbohydrate, protein and fat metabolism in the body so as to provide the best balance for growth. Iodine is essential for the synthesis of thyroxin. In case iodine is deficient in our diet, there is a possibility that we might suffer from goitre. One of the symptoms in this disease is a swollen neck. Can you correlate this with the position of the thyroid gland in Fig. 6.7?
 
 ![Figure6.7](../../../assets/class-10-ap/biological-science/chapter-6/section3/figure1.png)
 
-# Hormones in Animals – Growth, Puberty, and Feedback Mechanisms
+Sometimes we come across people who are either very short (dwarfs) or extremely tall (giants). Have you ever wondered how this happens? Growth hormone is one of the hormones secreted by the pituitary. As its name indicates, growth hormone regulates growth and development of the body. If there is a deficiency of this hormone in childhood, it leads to dwarfism.
 
-## Growth Hormone and Body Development
+You must have noticed many dramatic changes in your appearance as well as that of your friends as you approached 10–12 years of age. These changes associated with puberty are because of the secretion of testosterone in males and oestrogen in females.
 
-Sometimes we see people who are:
-- Very short (**dwarfs**)
-- Extremely tall (**giants**)
+Do you know anyone in your family or friends who has been advised by the doctor to take less sugar in their diet because they are suffering from diabetes? As a treatment, they might be taking injections of insulin. This is a hormone which is produced by the pancreas and helps in regulating blood sugar levels. If it is not secreted in proper amounts, the sugar level in the blood rises causing many harmful effects.
 
-This variation occurs due to the **growth hormone**, which is secreted by the **pituitary gland**.
-
-### Functions of Growth Hormone:
-- Regulates **growth and development** of the body
-
-### Deficiency:
-- Lack of growth hormone during childhood leads to **dwarfism**
-
----
-
-## Hormones and Puberty
-
-During the age of **10–12 years**, many physical and emotional changes occur. These changes are associated with **puberty**.
-
-### Hormones Responsible:
-
-- **Testosterone** (in males)
-- **Oestrogen** (in females)
-
-### Effects:
-- Changes in physical appearance
-- Development of secondary sexual characteristics
-
----
-
-## Insulin and Blood Sugar Regulation
-
-Some people are advised to reduce sugar intake due to **diabetes**.
-
-### Role of Insulin:
-- A hormone produced by the **pancreas**
-- Regulates **blood sugar levels**
-
-### If Insulin is Not Secreted Properly:
-- Blood sugar levels rise
-- Can cause harmful effects in the body
-
-### Treatment:
-- Insulin injections may be required
-
----
-
-## Feedback Mechanism in Hormonal Control
-
-Hormones must be secreted in **precise amounts** for proper functioning.
-
-### How is this Controlled?
-
-Through a **feedback mechanism**:
-
-1. If blood sugar level rises:
-   - Pancreas detects the increase
-   - More insulin is released
-
-2. As blood sugar level decreases:
-   - Insulin secretion is reduced
-
----
-
-## Key Takeaways
-
-- Growth hormone controls body growth
-- Sex hormones regulate changes during puberty
-- Insulin maintains blood sugar balance
-- Hormone secretion is controlled by feedback mechanisms
+If it is so important that hormones should be secreted in precise quantities, we need a mechanism through which this is done. The timing and amount of hormone released are regulated by feedback mechanisms. For example, if the sugar levels in blood rise, they are detected by the cells of the pancreas which respond by producing more insulin. As the blood sugar level falls, insulin secretion is reduced.
 
 # Questions 
 1. How does chemical coordination take
